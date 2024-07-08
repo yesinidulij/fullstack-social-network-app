@@ -1,0 +1,7 @@
+env/
+wey_backend/
+wey_backend/*.pyc
+wey_backend/*/*.pyc
+wey_backend/*/*/*.pyc
+server files/
+templates/
